@@ -21,11 +21,13 @@
 
 # 📂 Project Structure
  **📦 donation-portal**
-  -  ┣ 📜 index.html        #### Homepage
-  -  ┣ 📜 style.css         #### Styling file
-  -  ┣ 📜 script.js         #### JavaScript functionality
-  -  ┗ 📂 images/           #### Icons and illustrations
+  -  ┣ 📜 index.html        # Homepage
+  -  ┣ 📜 style.css         # Styling file
+  -  ┣ 📜 script.js         # JavaScript functionality
+  -  ┗ 📂 images/           # Icons and illustrations
  # 🚀 How to Run Locally
   **Clone the repository**
-
+  https://programingwithdeepak.github.io/DONATION-PORTAL-/
  # 📸 Screenshot
+ <img width="955" height="447" alt="image" src="https://github.com/user-attachments/assets/618e6b32-b2f7-46ad-838a-f0cb0329c3a0" />
+
